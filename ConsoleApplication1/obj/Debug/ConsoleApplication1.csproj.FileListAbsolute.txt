@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\Administrator\github\lambda\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Administrator\github\lambda\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
